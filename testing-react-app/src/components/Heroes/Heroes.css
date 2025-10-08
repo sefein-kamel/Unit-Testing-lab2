@@ -1,0 +1,18 @@
+
+.hero-list {
+  list-style: none;          /* Remove default bullets */
+  padding: 0;                /* Remove default padding */
+  max-width: 400px;          /* Limit width for better layout */
+  margin: 20px auto;         /* Center horizontally with margin */
+  font-family: Arial, sans-serif;
+}
+
+.hero-list li {
+  border-radius: 8px;
+  padding: 10px 15px;
+  border-bottom: 1px solid #ddd;
+  color: #333;
+  font-size: 16px;
+  margin: 20px 0;
+  background-color: white;
+}
